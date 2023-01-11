@@ -1,12 +1,11 @@
-name = "TeXify"
+name = "Eudokia"
 license = "MIT"
-licenselink = "https://github.com/queensferryme/hugo-theme-texify/blob/master/LICENSE"
 description = "A minimal, latex-style hugo theme for personal blogging"
-homepage = "https://github.com/queensferryme/hugo-theme-texify/"
-tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
+homepage = "https://github.com/arch-dawson/eudokia-theme"
+tags = ["blog", "clean", "latex", "minimal", "simple"]
 features = ["blog"]
 min_version = "0.60"
 
 [author]
-name = "Queensferry"
-homepage = "https://github.com/queensferryme/"
+name = "Dawson Beatty"
+homepage = "https://github.com/arch-dawson/"
